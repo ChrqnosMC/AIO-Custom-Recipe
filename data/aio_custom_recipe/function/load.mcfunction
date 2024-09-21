@@ -1,1 +1,1 @@
-tellraw @a ["",{"text":"AIO Custom Recipe datapack has been reloaded","bold":true,"color":"white"}]
+tellraw @a ["",{"text":"AIO Custom Recipe datapack has been reloaded"}]
