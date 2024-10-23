@@ -40,6 +40,7 @@ jobs:
         with:
           modrinth-token: ${{secrets.ACCESS_TOKEN}}
           modrinth-id: pQlo3JO3
+          game-version-filter: none
           name: AIO Custom Recipe ${{env.branch}}-${{env.tag}}
           version: ${{env.tag}}
           files: |
